@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.gloock-regular {
+  font-family: "Gloock", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.merriweather-uniquifier {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+h1{
+  font-family: 'gloock-regular';
+}
