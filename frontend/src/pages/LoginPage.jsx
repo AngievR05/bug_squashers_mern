@@ -1,9 +1,6 @@
-// src/pages/LoginPage.jsx
-
 import React from 'react';
+import '../styles/LoginPage.css'; 
 import styled from 'styled-components';
-
-// SVGs (default import for <img /> tag usage)
 import GoogleIcon from '../assets/google.svg';
 import AppleIcon from '../assets/apple.svg';
 
